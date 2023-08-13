@@ -1,0 +1,18 @@
+.container{
+    background-color:rgb(143, 168, 203);
+    text-align: center;
+    margin-top: 7%;
+    font-size: 20px;
+}
+h2{
+    font-family: 'Courier New', Courier monospace;
+}
+h1{
+    font-family:'Courier New', Courier monospace;
+}
+button{
+    border-radius: 20%;
+    padding: 1%;
+    margin: 1%;
+  
+}

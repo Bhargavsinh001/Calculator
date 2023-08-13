@@ -1,0 +1,38 @@
+body {margin:0;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-size: 20px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li  {
+  display: block;
+  color:ghostwhite;
+  /* color: rgb(214, 12, 12); */
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ li .active :hover{
+    background-color: red;
+}
+
+.active {
+  background-color: rgb(255, 255, 255);
+}
+
+.NavLink{
+  text-decoration: none;
+}
+
